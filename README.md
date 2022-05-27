@@ -49,3 +49,4 @@ To improve results, we can:
 - Inf2vec: Latent Representation Model for Social Influence Embedding https://ieeexplore.ieee.org/document/8509310 
 - Vladimir Batagelj: On Fractional Approach to Analysis of Linked Networks.
 - Vladimir Batagelj, Daria Maltseva: Temporal Bibliographic Networks.
+- Boyack KW, Newman D, Duhon RJ, Klavans R, Patek M, et al. (2011) Clustering More than Two Million Biomedical Publications: Comparing the Accuracies of Nine Text-Based Similarity Approaches. PLoS ONE 6(3): e18029. doi:10.1371/journal.pone.0018029
