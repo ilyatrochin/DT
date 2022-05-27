@@ -7,6 +7,7 @@ This project is aimed at studying the topic of "Digital Transformation" in the s
 
 ### Goal
 Показать как устроена область знаний по Цифровой трансформации, как в ней усваиваются тренды и какие есть сообщества.
+
 To find out how is organized the area of knowledge of DT: what kind of communites there are? how many trends are? how different trends are assimilates in this network?
 
 
