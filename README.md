@@ -3,12 +3,12 @@
 
 ### Course Paper Syllabys 
 
-1) All data of articles are uploaded to the repository's path: ./data/*.csv
+1) All data of articles are uploaded to the repository's path: [here](./data/)
     - data in Scopus and PubMed participated in the analysis
-2) All preprocessing data are placed to the repository's path: ./data_network/*
+2) All preprocessing data are placed to the repository's path: [here](./data_network/)
     - here you can find preliminary lda model data and prepared data for the network
-3) The script LDA_modeling.ipynb shows all the stages of data protection and building a thematic model.
-4) The Network_modelling.ipynb script includes a description of the following result:
+3) The [script](./LDA_modeling.ipynb) shows all the stages of data protection and building a thematic model.
+4) The [script](./Network_modelling.ipynb) includes a description of the following result:
     - preparation of data for building a network;
     - search for clusters
     - building a network of co-authorship and subsequent clustering of authors
