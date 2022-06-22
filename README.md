@@ -5,7 +5,7 @@
 
 1) All data of articles are uploaded to the repository's path: [here](./data/)
     - data in Scopus and PubMed participated in the analysis
-2) All preprocessing data are placed to the repository's path: [here](./data_network/)
+2) All preprocessing data are placed to the repository's path: [here](./network_data/)
     - here you can find preliminary lda model data and prepared data for the network
 3) The [script](./LDA_modeling.ipynb) shows all the stages of data protection and building a thematic model.
 4) The [script](./Network_modelling.ipynb) includes a description of the following result:
